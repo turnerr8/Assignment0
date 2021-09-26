@@ -29,9 +29,10 @@ details {
 position: fixed;
 padding: .5em;
 right: 1em;
-background-color: white;
+background-color: gainsboro;
 border-radius: .25em;
 border: 1px solid black;
+max-width: 20em;
 }
 
 summary{
