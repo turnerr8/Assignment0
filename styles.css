@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    margin: .5em .5em;
+}
+
+h2{
+    margin: .5em .5em;
+}
+
+p{
+    margin: .5em .5em;
+}
+
+img{
+    max-height: 15em;
+    overflow: hidden;
+}
+
+hr {
+    margin: .5em .5em;
+}
+
+details {
+position: fixed;
+padding: .5em;
+right: 1em;
+background-color: white;
+border-radius: .25em;
+border: 1px solid black;
+}
+
+summary{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+span {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+a{
+    margin: .5em .5em;
+}
